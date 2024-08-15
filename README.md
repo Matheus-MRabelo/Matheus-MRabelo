@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Matheus-MRabelo
-- 👀 I’m interested in Software Engineering
+- 👋 Hi, I’m Matheus 
+- 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Javascript, Java, HTML, CSS, SQL and some Python
 - 💞️ I’m looking to collaborate on any area of T.I, i'm curious.
 - 📫 How to reach me: matheuscn07@gmail.com | +55 21 99029-6515
